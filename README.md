@@ -1,6 +1,6 @@
 # DIB Car Launcher
 
-DIB Car Launcher is the ultimate companion for your Android car radio, packed with a suite of powerful and convenient features to elevate your driving experience. Stay connected with your world without taking your eyes off the road with its intelligent voice integration, allowing you to receive and reply to messages hands-free. Real-time maps provide an accurate and up-to-date view of your surroundings, while the digital speedometer and car stats keep you informed of your vehicle's performance.
+DIB Car Launcher is the ultimate software for your Android car radio, packed with a suite of powerful and convenient features to elevate your driving experience. Stay connected with your world without taking your eyes off the road with its intelligent voice integration, allowing you to receive and reply to messages hands-free. Real-time maps provide an accurate and up-to-date view of your surroundings, while the digital speedometer and car stats keep you informed of your vehicle's performance.
 
 Never lose track of your car with the real-time location tracking feature, accessible from your smartphone. The 3D maps give you a detailed, immersive view of your route, while the media control lets you easily manage your music and entertainment on the go.
 
